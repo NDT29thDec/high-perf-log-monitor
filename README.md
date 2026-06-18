@@ -34,3 +34,11 @@ cmake --build .
 
 # Run tests
 ctest --output-on-failure
+
+
+
+## 👤 Author
+
+**Nguyễn Đức Thuận**
+- **GitHub:** [@NDT29thDec](https://github.com/NDT29thDec)
+- **Email:** [fire29122007@gmail.com]
