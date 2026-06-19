@@ -39,6 +39,6 @@ ctest --output-on-failure
 
 ## 👤 Author
 
-**Nguyễn Đức Thuận**
+**Nguyen Duc Thuan**
 - **GitHub:** [@NDT29thDec](https://github.com/NDT29thDec)
 - **Email:** [fire29122007@gmail.com]
